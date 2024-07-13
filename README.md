@@ -58,7 +58,7 @@ The healthcare industry is increasingly investing in intelligent systems to enha
 ## Installation
 
 1. Clone the repository.
-2. Install required packages using `pip install -r requirements.txt`.
+2. Install required packages using `pip install` command along with required packages.
 3. Upload the `US_Heart_Patients.csv` file into the working directory.
 
 ## Usage
@@ -71,12 +71,6 @@ The healthcare industry is increasingly investing in intelligent systems to enha
 - The model with the highest F1 score was selected as the best model.
 - Detailed evaluation metrics, including confusion matrix and classification report, are provided for the best model.
 
-## Future Work
-
-- Explore additional machine learning models for improved accuracy.
-- Implement hyperparameter tuning to optimize model performance.
-- Consider feature engineering to enhance predictive power.
-
-## Contributors
+## Contributor
 
 - Yogita Singh
